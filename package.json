@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "guid": "^0.0.12",
     "helmet": "^3.21.2",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "md5": "^2.2.1",
     "moip-sdk-node": "^1.2.4",
     "moment": "^2.24.0",
